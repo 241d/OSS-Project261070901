@@ -4,7 +4,7 @@ name: Documentation Problem
 about: Report an issue in project documentation
 title: "[Docs]: "
 labels: documentation
-assignees: ' '
+assignees: ''
 ---
 
 **Which file has the problem?**
