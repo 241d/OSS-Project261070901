@@ -1,9 +1,10 @@
 
 ---
-name: Documentation problem
-about: Report a spelling mistake or other problem in the documentation
-title: "[Docs] "
+name: Documentation Problem
+about: Report an issue in project documentation
+title: "[Docs]: "
 labels: documentation
+assignees: ' '
 ---
 
 **Which file has the problem?**
